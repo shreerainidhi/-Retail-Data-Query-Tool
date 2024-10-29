@@ -1,5 +1,5 @@
 ## Project Overview
-This is an end-to-end Large Language Model (LLM) project designed for AtliQ Tees, a T-shirt store, to manage inventory and sales data using natural language queries. Store managers can ask questions in plain English, and the system interprets these questions, converting them into SQL queries to retrieve relevant information from a MySQL database.
+This is an end-to-end Large Language Model (LLM) project designed for a T-shirt store, to manage inventory and sales data using natural language queries. Store managers can ask questions in plain English, and the system interprets these questions, converting them into SQL queries to retrieve relevant information from a MySQL database.
 
 ### Examples:
 
