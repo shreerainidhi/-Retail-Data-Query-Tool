@@ -18,7 +18,7 @@ load_dotenv()  # take environment variables from .env (especially openai api key
 
 def get_few_shot_db_chain():
     db_user = "root"
-    db_password = "nidhi"
+    db_password = "--password--"
     db_host = "localhost"
     db_name = "atliq_tshirts"
 
