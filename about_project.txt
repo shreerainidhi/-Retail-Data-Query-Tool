@@ -1,0 +1,18 @@
+
+
+
+
+Objective: 
+Developed a tool for Atliq, a t-shirt store, enabling users to 
+interact with a MySQL database using natural language queries.
+
+Technologies Used: GooglePalm, LangChain, Hugging Face Embeddings, 
+Chroma, MySQL.
+
+Functionality: Created an interface similar to ChatGPT that converts 
+natural language questions into SQL queries, executes them on the 
+database, and returns the results in simple English.
+
+Outcome: Enhanced user experience by facilitating seamless, 
+conversational interaction with the database, effectively making
+complex data retrieval accessible to non-technical users.
